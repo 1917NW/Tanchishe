@@ -1,0 +1,38 @@
+﻿  Reading Qt configuration (D:/Qt/6.2.3/msvc2019_64/bin/qmake)
+  Snake.cpp
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x199 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x19a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x19d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x19f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x1a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x1a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x1a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x222 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x224 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x225 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x241 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x245 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x246 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x26f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x289 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x2cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x2fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x2fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x301 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x314 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x318 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x31a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\visual studio\Snake\Snake.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  Snake.vcxproj -> D:\visual studio\Snake\x64\Debug\Snake.exe
